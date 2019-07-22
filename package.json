@@ -1,18 +1,9 @@
 {
-  "name": "DashSample",
-  "version": "1.0.0",
-  "description": "Sample project with dash and siftal",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ermile/dashSample.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Ermile/dashSample/issues"
-  },
-  "homepage": "https://ermile.com",
+  "name": "Dash Sample",
+  "version": "2.0.0",
+  "homepage": "https://blog.ermile.com",
   "dependencies": {
-    "siftal": ">=4.0.0",
-    "dash": ">=14.7.5",
+    "siftal": "^6.9.0",
+    "dash": "^18.0.0",
   }
 }
