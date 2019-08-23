@@ -564,7 +564,7 @@ msgstr "رنگ تگ نادرست"
 
 #: dash/addons/content_cp/terms/model.php:169
 msgid "Term successfully edited"
-msgstr "ترم با موفقتی ویرایش شد"
+msgstr "عبارت با موفقیت ویرایش شد"
 
 #: dash/addons/content_cp/terms/model.php:182
 msgid "Term successfully added"
